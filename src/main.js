@@ -1,5 +1,6 @@
 import Vue from 'vue'
 import App from './App.vue'
+require('modern-css-reset')
 
 Vue.config.productionTip = false
 
